@@ -135,6 +135,7 @@ OVERRIDE_RS_DRIVER:= libRSDriver_adreno.so
 TARGET_USES_HWC2 := true
 TARGET_USES_GRALLOC1 := true
 TARGET_USES_QCOM_DISPLAY_BSP := true
+TARGET_SCREEN_DENSITY := 408
 
 # Enable dexpreopt to speed boot time
 ifeq ($(HOST_OS),linux)
