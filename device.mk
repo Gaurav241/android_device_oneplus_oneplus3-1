@@ -568,6 +568,7 @@ PRODUCT_PACKAGES += \
     hostapd \
     wificond \
     wifilogd \
+    WifiOverlay \
     wpa_supplicant \
     wpa_supplicant.conf \
     android.hardware.wifi@1.0-service
