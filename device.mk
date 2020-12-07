@@ -342,8 +342,8 @@ PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
 
 # LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service.oneplus3
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.livedisplay@2.0-service.oneplus3
 
 # Media
 PRODUCT_COPY_FILES += \
