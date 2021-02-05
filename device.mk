@@ -230,6 +230,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.cryptfshw@1.0-service-qti.qsee
 
+# Device Settings
+PRODUCT_PACKAGES += \
+     DeviceSettings
+
 # Display/Graphics
 PRODUCT_PACKAGES += \
     copybit.msm8996 \
